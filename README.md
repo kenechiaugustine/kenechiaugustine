@@ -32,6 +32,13 @@
 ![Windows](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 
 
+### 🤝🏻 &nbsp;Connect with Me
+<p>
+<!-- <a href="https://www.meetkene.com"><img src="https://img.shields.io/badge/-meetkene.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/kenechukwu-arionye-57759722a/"><img src="https://img.shields.io/badge/-Kenechukwu%20Arionye-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kenechiaugustine@gmail.com"><img src="https://img.shields.io/badge/-kenechiaugustine@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/augustinekacee"><img src="https://img.shields.io/badge/-@augustinekacee-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
 <!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 <!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) -->
@@ -40,11 +47,13 @@
 <!-- ![MacOs](https://img.shields.io/badge/-macOS-0078D6?style=for-the-badge&logo=apple&logoColor=ffffff) -->
 
 <!-- OLD -->
-<!-- - 👋 Hi, I’m @kenechiaugustine
+<!-- 
+- 👋 Hi, I’m @kenechiaugustine
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 📫 How to reach me ... 
+-->
 
 <!---
 kenechiaugustine/kenechiaugustine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
