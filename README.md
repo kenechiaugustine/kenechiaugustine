@@ -40,6 +40,7 @@
 <!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
 <!-- ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff) -->
+<!-- ![MacOs](https://img.shields.io/badge/-macOS-0078D6?style=for-the-badge&logo=apple&logoColor=ffffff) -->
 
 <!-- OLD -->
 <!-- - 👋 Hi, I’m @kenechiaugustine
