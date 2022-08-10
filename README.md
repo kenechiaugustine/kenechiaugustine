@@ -3,7 +3,7 @@
 <h3 align="center">I am a software engineer with a passion for building software that is user friendly and easy to use</h3>
 
 
-- 🌱 I’m currently learning **TailwindCSS, Python, Blockchain(web3), etc.**
+- 🌱 I’m currently learning **TailwindCSS, Python, Blockchain(web3) and Smart Contract, etc.**
 
 - 👨‍💻 All of my projects are available at [my github repos](https://github.com/kenechiaugustine?tab=repositories)
 
