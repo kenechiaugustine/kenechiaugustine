@@ -3,7 +3,7 @@
 <h3 align="center">I am a software engineer with a passion for building software that is user friendly and easy to use</h3>
 
 
-- 🌱 I’m currently learning **TailwindCSS, Python, Blockchain(web3) and Smart Contract, etc.**
+- 🌱 I’m currently learning **NextJS, TailwindCSS, Python, Go and Flutter etc.**
 
 - 👨‍💻 All of my projects are available at [my github repos](https://github.com/kenechiaugustine?tab=repositories)
 
@@ -37,6 +37,5 @@
 <!-- <a href="https://www.meetkene.com"><img src="https://img.shields.io/badge/-meetkene.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/kenechukwu-arionye-57759722a/"><img src="https://img.shields.io/badge/-Kenechukwu%20Arionye-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kenechiaugustine@gmail.com"><img src="https://img.shields.io/badge/-kenechiaugustine@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/augustinekacee"><img src="https://img.shields.io/badge/-@augustinekacee-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
